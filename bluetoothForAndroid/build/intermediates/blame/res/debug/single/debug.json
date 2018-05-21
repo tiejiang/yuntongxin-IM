@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_car.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-hdpi\\car.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\layout_relaycontrol.xml.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\layout\\relaycontrol.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-hdpi\\btn.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_icon.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\layout_main.xml.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_tog.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-hdpi\\btn_tog.png"
+    },
+    {
+        "merged": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon.png.flat",
+        "source": "E:\\AndroidProject\\SmartGlassesVideoTrans\\bluetoothForAndroid\\src\\main\\res\\drawable-hdpi\\icon.png"
+    }
+]
